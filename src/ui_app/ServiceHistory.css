@@ -1,0 +1,19 @@
+.card-title {
+  font-size: 20px;
+}
+.card-text {
+  font-size: 12px;
+  height: 34px;
+  width: 435px;
+}
+.card-body {
+  height: 20px;
+  width: 50px;
+}
+.modal-end .modal-dialog {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  

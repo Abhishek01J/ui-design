@@ -1,0 +1,49 @@
+.video {
+  height: 900px;
+  width: 1380px;
+  position: fixed;
+}
+.loginpage {
+  border: 1px #1d105c;
+  width: 400px;
+  height: 460px;
+  margin-left: 780px;
+  margin-top: 170px;
+  padding-left: 40px;
+  padding-top: 40px;
+  border-radius: 15px;
+  background-color: #f9f8ff;
+  position: absolute;
+}
+#logo {
+  height: 64px;
+  width: 64px;
+  text-align: left;
+}
+
+.login {
+  padding-right: 100px;
+  text-align: center;
+}
+.welcome {
+  font-size: 40px;
+  text-align: left;
+}
+#lorem {
+  font-size: 10px;
+  text-align: left;
+}
+#button {
+  color: #ffffff;
+  font-size: 12px;
+  width: 96px;
+  height: 29px;
+  border-radius: 5px;
+  margin-left: 75px;
+  background-color: #5c47c4;
+  border: none;
+}
+/* .home {
+  position: relative;
+  position: absolute;
+} */

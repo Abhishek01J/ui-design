@@ -1,0 +1,58 @@
+.navbar {
+  background-color: #f9f8ff;
+}
+
+#motor {
+  height: 160px;
+  border: 1px;
+}
+#company {
+  color: #fe5e29;
+  font-size: 32px;
+  padding-right: 50px;
+}
+#number {
+  font-size: 20px;
+  color: #333645;
+}
+#map {
+  padding-left: 170px;
+  text-align: justify;
+}
+#RC {
+  text-align: left;
+  font-size: 24px;
+  width: 380px;
+}
+#lorem {
+  font-size: 14px;
+  text-align: left;
+  width: 380px;
+  
+}
+#image {
+  width: 380px;
+  height: 214px;
+}
+#service {
+  width: 150px;
+  height: 40px;
+  size: 16px;
+
+  border: transparent;
+}
+#book {
+  width: 150px;
+  height: 40px;
+  border: transparent;
+  color: #FFFFFF;
+  size: 16px;
+}
+.card {
+  position: absolute;
+  width: 380px !important;
+  height: 385px !important;
+}
+.card-body {
+  width: 380px !important;
+}
