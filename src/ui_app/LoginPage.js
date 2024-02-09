@@ -6,6 +6,7 @@ import { Navigate, useNavigate } from "react-router-dom";
 import InputComponent from "../atoms/inputComponent/InputComponent";
 function LoginPage() {
   const navigate = useNavigate();
+  // ---------------------------------------
   return (
     <div className="home">
       <div className="video">
