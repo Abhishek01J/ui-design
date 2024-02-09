@@ -16,7 +16,6 @@ function LoginPage() {
         <div>
           <img src={logo} class="d-block w-1px h-1px" alt="" id="logo" />
         </div>
-        <br></br>
         <div className="welcome">
           <h3>Welcome back!</h3>
         </div>

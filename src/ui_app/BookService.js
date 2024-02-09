@@ -21,17 +21,10 @@ function BookService({ showModal, showHideServiceModal }) {
 
         <Modal.Body>
           <InputComponent label={"First name"} text={"eg. john"} width="383px"/>
-          <br />
-          <InputComponent label={"Last name"} text={"eg. Doe"} />
-          <br />
-          <InputComponent label={"Mobile number"} text={"+91"} />
-          <br />
-          <InputComponent label={"Chase number"} text={"eg. JYA205684"} />
-          <br />
-          <div>
-            <InputComponent label={"Select date"} type={"date"} />
-          </div>
-          <br />
+          <InputComponent label={"Last name"} text={"eg. Doe"} width="383px"/>
+          <InputComponent label={"Mobile number"} text={"+91"}width="383px" />
+          <InputComponent label={"Chase number"} text={"eg. JYA205684"}width="383px" />
+            <InputComponent label={"Select date"} type={"date"} width="383px"/>
           <label style={{ paddingInlineEnd: "270px", fontSize: "14px" }}>
             Select location <span style={{ color: "red" }}>*</span>
           </label>
@@ -43,6 +36,7 @@ function BookService({ showModal, showHideServiceModal }) {
               background: "#F2F2F2 0% 0% no-repeat padding-box",
               fontSize: "12px",
               borderRadius: "4px",
+              marginBottom:"35px",
             }}
           >
             <option></option>

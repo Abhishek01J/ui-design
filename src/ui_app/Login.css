@@ -13,12 +13,13 @@
   padding-top: 40px;
   border-radius: 15px;
   background-color: #f9f8ff;
-  position: absolute;
+  position: fixed;
 }
 #logo {
   height: 64px;
   width: 64px;
   text-align: left;
+  /* margin-bottom: 5px; */
 }
 
 .login {
@@ -43,7 +44,7 @@
   background-color: #5c47c4;
   border: none;
 }
-/* .home {
+.home {
   position: relative;
   position: absolute;
-} */
+}
